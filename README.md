@@ -46,14 +46,9 @@ This project is a perfect resource for learning:
 
 ## Technologies Used
 
-### Frontend
 - **Kotlin**: For Android app development.
 - **Material Design**: For modern and intuitive UI components.
-
-### Backend
-- **Node.js**: For backend API development.
-- **Express.js**: For handling HTTP requests.
-- **MongoDB**: As the database for storing user and post data.
+- **Firebase**: As the database for storing user and post data.
 
 ---
 
